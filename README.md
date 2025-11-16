@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# A love letter to the anime film AKIRA
+## A fond memory
+  I remember when I first saw the movie. My father was really into watching different things at the time. I remember us having our own cd book containing many different films of many differing genres. From horror, to romance. From other-worldly, to the mundane. Nothing is excluded. But among them, what stuck out to me the most (amongst what I was allowed to watch) was the anime film AKIRA. The film follows a group teenage bikers that roam the city of Neo-Tokyo, doing delinquent acts and gang wars. Neo-Tokyo because this isn't the tokyo that we typically imagine. It's not the clean and orderly world that Japan is well known for. In this new Tokyo, the city is riddled with crime. The government is corrupt. And the rest of the world is destroyed. I honestly don't know why I was allowed to watch it.
